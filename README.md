@@ -1,11 +1,20 @@
 ## About project
 Requirment:
-PHP: 8.*
+
+PHP: 8.1.4 
+
+MariaDB: 10.4.24-MariaDB
+
 Comoser: latest
+
 NPM: latest
+
 Git: latest
 
 ## Installation
+
+Create database ict
+
 `git clone https://github.com/nikitacunskis/ict.git`
 
 `composer install`
@@ -15,3 +24,5 @@ Git: latest
 `php artisan serve`
 
 `nmp run dev`
+
+`php artisan migrate`
