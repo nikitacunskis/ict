@@ -7,7 +7,11 @@ Git: latest
 
 
 `git clone https://github.com/nikitacunskis/ict.git`
+
 `composer install`
+
 `npm install`
+
 `php artisan serve`
+
 `nmp run dev`
