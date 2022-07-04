@@ -13,7 +13,7 @@ Git: latest
 
 ## Installation
 
-Create database `ict`
+Create database and set-up .env file.
 
 `git clone https://github.com/nikitacunskis/ict.git`
 
